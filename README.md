@@ -20,4 +20,4 @@ docker-compose up --build -d
 ```
 
 [![fastapi](https://img.shields.io/badge/Catalogue%20Summarizer%20API-dodgerblue?style=for-the-badge)](http://127.0.0.1:8011/)
-[![fastapi docs](https://img.shields.io/badge/Swagger%20UI-dodgerblue?style=for-the-badge)](http://127.0.0.1:8011/docs)
+[![fastapi docs](https://img.shields.io/badge/Swagger%20UI-darkseagreen?style=for-the-badge&logo=swagger)](http://127.0.0.1:8011/docs)
