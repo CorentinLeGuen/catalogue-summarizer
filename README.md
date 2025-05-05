@@ -13,6 +13,8 @@ Une API légère développée avec **FastAPI** qui permet de générer automatiq
 
 ## 🚀 Lancer le projet en local
 
+> Changez la clé OpenAI dans [docker-compose](docker-compose.yml).
+
 ```shell
 git clone https://github.com/CorentinLeGuen/catalogue-summarizer.git
 cd catalogue-summarizer
